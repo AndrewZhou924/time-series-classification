@@ -58,7 +58,10 @@ Software Links:
 - [Caffe: deep learning framework](http://caffe.berkeleyvision.org/)
 - [RASTAMAT](http://labrosa.ee.columbia.edu/matlab/rastamat/)
 
-The project is partly motivated by @Zhiguang Wang, who is the author of "Imaging Time-Series to Improve Classification and Imputation". He provided me the source code to extract GASF-GADF-MTF features and pointed out that "The tiled CNN is not the best one and the TICA pre-training stage seems unnecessary". His advice helped us save a great deal of time. Thanks for his kindness and if you use this repository for GAF/MTF feature extraction, please cite the work in your publication:
+This project is partly motivated by @Zhiguang Wang, who is the author of "Imaging Time-Series to Improve Classification 
+and Imputation". He provided me the source code to extract GASF-GADF-MTF features and pointed out that "The tiled CNN is 
+not the best one and the TICA pre-training stage seems unnecessary". His advice helped us save a great deal of time. 
+Thanks for his kindness and if you use this repository for GAF/MTF feature extraction, please cite the work in your publication:
 ```
 @inproceedings{Wang:2015:ITI:2832747.2832798,
  author = {Wang, Zhiguang and Oates, Tim},
