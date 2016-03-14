@@ -1,5 +1,5 @@
 # time-series-classification
-Short and long time series classification using convolutional neural networks
+Short and long time series classification via convolutional neural networks
 
 In this project, we present a novel framework for time series classification, which is based on 
 Gramian Angular Summation/Difference Fields and Markov Transition Fields (GAF-MTF), a recently published 
@@ -12,7 +12,7 @@ Furthermore, we compared the performance of GAF-MTF feature with other 5 image f
 Results indicates that the GAF-MTF feature is not suitable for large-scale cough datasets 
 while its competitive performance on the standard datasets.
 
-## Extracting image features
+## Image features extraction
 ### Short time series
 Image features for short time series:
 
