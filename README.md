@@ -1,5 +1,5 @@
 # time-series-classification
-short and long time series classification using convolutional neural networks
+Short and long time series classification using convolutional neural networks
 
 In this project, we present a novel framework for time series classification, which is based on 
 Gramian Angular Summation/Difference Fields and Markov Transition Fields (GAF-MTF), a recently published 
