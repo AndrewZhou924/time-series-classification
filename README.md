@@ -17,28 +17,36 @@ while its competitive performance on the standard datasets.
 Image features for short time series:
 
 - GASF
+
  <img src="images-source/gaf-mtf/gasf.png"/>
 - GADF
+
  <img src="images-source/gaf-mtf/gadf.png"/>
 - MTF
+
  <img src="images-source/gaf-mtf/mtf_64.png"/>
 
 ### Large-scale cough dataset
 Image features for cough dataset:
 
 - Comparision of the six image features:
+
   <img src="images-final/six-features.png"/>
 
 ## CNN
 - Framework for short time series classification:
+
  <img src="images-final/cnn.png"/>
 - AlexNet/CaffeNet
+
  <img src="images-final/caffenet.jpg"/>
 
 ## Results
 - short time series classification:
+
  <img src="images-final/results.png"/>
 - long time series classificaiton:
+
  <img src="images-final/result2.png"/>
 
 ## Appendix
