@@ -27,7 +27,7 @@ Image features for short time series:
 Image features for cough dataset:
 
 - Comparision of the six image features:
- <img src="images-final/six-features.png"/>
+  <img src="images-final/six-features.png"/>
 
 ## CNN
 - Framework for short time series classification:
@@ -39,7 +39,7 @@ Image features for cough dataset:
 - short time series classification:
  <img src="images-final/results.png"/>
 - long time series classificaiton:
-  <img src="images-final/result2.png"/>
+ <img src="images-final/result2.png"/>
 
 ## Appendix
 Dataset information:
