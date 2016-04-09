@@ -78,3 +78,5 @@ Thanks for his kindness and if you use this repository for GAF/MTF feature extra
  publisher = {AAAI Press},
 }
 ```
+
+NOTE: The cough dataset used in this work can not be accessed now for some privacy issues!
